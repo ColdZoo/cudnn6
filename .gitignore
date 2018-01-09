@@ -1,0 +1,3 @@
+cudnn.h
+libcudnn.so
+libcudnn_static.a
